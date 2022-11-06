@@ -1,13 +1,13 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/preview/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: "Manger sainement sans y passer trop de temps"
+excerpt: "Il ne faut pas se mentir, manger sainement, cela prend du temps. D’une part, pour faire ses courses et d’autre part pour cuisiner. Mais ce n’est pas mission impossible, même avec un boulot à plein temps, il faut juste s’organiser correctement. Je vous dévoile dans cet article mes petites astuces pour manger des repas équilibrés et sains, même les soirs de flemme."
+coverImage: "/assets/blog/preview/cover.webp"
+date: "2022-10-10T05:35:07.322Z"
 author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: Youness Idbakkasse
+  picture: "/assets/blog/authors/blanklob.jpg"
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: "/assets/blog/preview/cover.webp"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
