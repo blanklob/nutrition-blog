@@ -16,7 +16,7 @@ Dans mon premier appartement, j'avais toujours de la Vache qui Rit dans mon frig
 Quand j'allais chez Erwan, on mangeait des pâtes et du steak haché. Et des pâtes, et du steak haché. Et plein de chips avec ses colocs et les soirées pizzas et fajitas aussi.
 Quand j'ai emménagé avec Erwan, c'était assez brouillon, on mangeait beaucoup à l'extérieur car nous habitions en plein centre ville (à coté de Colombus Café, Subway, Mezzo di Pasta enfin vous voyez le tableau) et quand on faisait la cuisine c'était surtout des croque-monsieur, des tartes au compté et pommes de terre, et on mangeait du pain presque tous les jours. Sans parler des petits déj, qui étaient des vraies bombes de sucre pour tous les deux.
 
-![square](https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg)
+![square](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9d1b619-cf17-49ec-946e-4db16b7056ec/ezgif.com-gif-maker.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221118%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221118T123840Z&X-Amz-Expires=86400&X-Amz-Signature=882e88ca281a5abc4caa4b5bc2a09632a387d7f9af2d361042341f89691d8197&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 Puis je ne sais pas trop comment c'est venu, il y a un an, j'ai voulu faire attention à ce que je mangeais en même temps que de commencer le sport, alors je me suis renseignée, sur les apports, sur les petits déjeuners sains, sur ce mode de vie "healthy" dont on entendait parler. Associé au sport, c'était la promesse d'une perte de poids durable et d'un mode de vie plus sain.
 
@@ -54,7 +54,7 @@ Je met aussi des beurres d'oléagineux sur mes pancakes, et dans mes porridges o
 - Oeufs brouillés, wasa, salade
 - Ratatouille et blanc de poulet, riz complet
 
-![square](https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg)
+![square](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9d1b619-cf17-49ec-946e-4db16b7056ec/ezgif.com-gif-maker.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221118%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221118T123840Z&X-Amz-Expires=86400&X-Amz-Signature=882e88ca281a5abc4caa4b5bc2a09632a387d7f9af2d361042341f89691d8197&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 Je fais toujours attention à manger léger mais correctement le midi car c'est le meilleur moyen de tenir le reste de l'après midi. Je ne prend pas toujours de dessert le midi, mais c'est souvent le cas, car j'aime finir sur une touche sucrée !
 Au niveau des desserts c'est assez simple :
@@ -70,7 +70,7 @@ Dans mon premier appartement, j'avais toujours de la Vache qui Rit dans mon frig
 Quand j'allais chez Erwan, on mangeait des pâtes et du steak haché. Et des pâtes, et du steak haché. Et plein de chips avec ses colocs et les soirées pizzas et fajitas aussi.
 Quand j'ai emménagé avec Erwan, c'était assez brouillon, on mangeait beaucoup à l'extérieur car nous habitions en plein centre ville (à coté de Colombus Café, Subway, Mezzo di Pasta enfin vous voyez le tableau) et quand on faisait la cuisine c'était surtout des croque-monsieur, des tartes au compté et pommes de terre, et on mangeait du pain presque tous les jours. Sans parler des petits déj, qui étaient des vraies bombes de sucre pour tous les deux.
 
-![square](https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg)
+![square](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9d1b619-cf17-49ec-946e-4db16b7056ec/ezgif.com-gif-maker.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221118%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221118T123840Z&X-Amz-Expires=86400&X-Amz-Signature=882e88ca281a5abc4caa4b5bc2a09632a387d7f9af2d361042341f89691d8197&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 Puis je ne sais pas trop comment c'est venu, il y a un an, j'ai voulu faire attention à ce que je mangeais en même temps que de commencer le sport, alors je me suis renseignée, sur les apports, sur les petits déjeuners sains, sur ce mode de vie "healthy" dont on entendait parler. Associé au sport, c'était la promesse d'une perte de poids durable et d'un mode de vie plus sain.
 

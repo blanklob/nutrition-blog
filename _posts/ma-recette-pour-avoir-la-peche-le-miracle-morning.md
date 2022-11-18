@@ -51,7 +51,7 @@ En intégrant les 4 ingrédients d’une affirmation bulldozer.
 3.  Quelles actions allez-vous mener et comment allez-vous vous comporter pour y arriver ?
 4.  A quelle fréquence allez-vous agir pour réaliser cet objectif ?
 
-![square](https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg)
+![square](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9d1b619-cf17-49ec-946e-4db16b7056ec/ezgif.com-gif-maker.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221118%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221118T123840Z&X-Amz-Expires=86400&X-Amz-Signature=882e88ca281a5abc4caa4b5bc2a09632a387d7f9af2d361042341f89691d8197&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 Prenons un exemple.
 

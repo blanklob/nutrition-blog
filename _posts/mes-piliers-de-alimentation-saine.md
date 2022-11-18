@@ -69,7 +69,7 @@ Best off : kiwi, fraises, orange, citron, pamplemousse
 
 - Vitamine A : les fruits pigmentés sont riches en carotène qui se reconnaît à l’éclat des couleurs des différents fruits. Plus ils sont colorés plus ils sont riches en vitamine A nécessaire au développement de la vision et à la croissance des os et des muscles.
 
-![square](https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg)
+![square](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9d1b619-cf17-49ec-946e-4db16b7056ec/ezgif.com-gif-maker.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221118%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221118T123840Z&X-Amz-Expires=86400&X-Amz-Signature=882e88ca281a5abc4caa4b5bc2a09632a387d7f9af2d361042341f89691d8197&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 Best off : brugnon, abricot, pêche, kiwi, amande, mandarine, melon
 
@@ -154,7 +154,7 @@ Elles sont présentes dans les produits céréaliers, les légumineuses (lentill
 
 Il est toutefois possible d’obtenir un apport en acides aminés essentiels suffisant avec des protéines végétales. Pour ce faire, il suffit de combiner les protéines dont l ‘acide aminé limitant n’est pas le même. Par exemple, les céréales ont des teneurs basses en lysine mais élevées en acides aminés soufrés. Les légumineuses ont le profil complémentaire, elles sont déficitaires en acides aminés soufrés et relativement riches en lysine. Leur combinaison est idéale.
 
-![square](https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg)
+![square](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9d1b619-cf17-49ec-946e-4db16b7056ec/ezgif.com-gif-maker.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221118%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221118T123840Z&X-Amz-Expires=86400&X-Amz-Signature=882e88ca281a5abc4caa4b5bc2a09632a387d7f9af2d361042341f89691d8197&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 Donc, pour obtenir une alimentation équilibrée en acides aminés à partir de protéines végétales, il est ainsi nécessaire d’associer différents aliments végétaux et notamment : des légumineuses (lentille, fèves, pois, etc.) avec des céréales (riz, blé, maïs, etc.).
 

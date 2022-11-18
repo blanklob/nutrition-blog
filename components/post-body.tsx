@@ -26,7 +26,7 @@ const PostBody = ({ content }: Props) => {
             <img
               className="relative w-[160px] h-[600px] object-cover rounded-none border-none"
               alt="ad2"
-              src="https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg"
+              src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ebf970eb-2e69-4787-8b60-e26e00fec039/WhatsApp-Video-2022-11-17-at-15.38.35_%281%29.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221118%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221118T123547Z&X-Amz-Expires=86400&X-Amz-Signature=c8c3d8227dc87e960ad58085cc00aa9f41f000c48ace686f082d573512d593c4&X-Amz-SignedHeaders=host&x-id=GetObject"
             />
           </div>
         </div>
