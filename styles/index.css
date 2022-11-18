@@ -3,5 +3,17 @@
 @tailwind utilities;
 
 body {
-    color: #242424
+  color: #242424;
+}
+
+[alt="square"] {
+  @apply max-w-[250px] h-auto object-cover mx-auto aspect-square my-10;
+}
+
+img {
+  @apply rounded-[24px] shadow-sm border border-solid border-slate-300;
+}
+
+.markdown-styles_markdown__h_8de img {
+  @apply rounded-none shadow-none;
 }

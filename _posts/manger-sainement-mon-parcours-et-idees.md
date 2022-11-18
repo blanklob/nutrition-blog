@@ -1,13 +1,13 @@
 ---
 title: "Manger sainement, mon parcours et idées menus"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/cover.webp"
+excerpt: "Je vous parlais il y a peu de mon rapport au sport, et je vous disais que j'avais aussi eu un déclic pour la nourriture à peu près au même moment. Aujourd'hui, parlons bouffe ! J'ai toujours mangé correctement je pense, ou du moins équilibré, c'est ce que ma famille m'a inculqué."
+coverImage: "/assets/blog/manger-sainement-mon-parcours-et-idees/cover.webp"
 date: "2022-10-16T05:35:07.322Z"
 author:
   name: Youness Idbakkasse
   picture: "/assets/blog/authors/blanklob.jpg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.webp"
+  url: "/assets/blog/manger-sainement-mon-parcours-et-idees/cover.webp"
 ---
 
 Je vous parlais il y a peu de mon rapport au sport, et je vous disais que j'avais aussi eu un déclic pour la nourriture à peu près au même moment. Aujourd'hui, parlons bouffe ! J'ai toujours mangé correctement je pense, ou du moins équilibré, c'est ce que ma famille m'a inculqué. Manger de tout. Mais il y a deux ou trois ans je m'étais peut être enlisée dans une routine un peu pas cool, où je mangeais un peu n'importe quand, et les menus étaient toujours les mêmes et pas franchement équilibrés.
@@ -15,6 +15,8 @@ Je vous parlais il y a peu de mon rapport au sport, et je vous disais que j'avai
 Dans mon premier appartement, j'avais toujours de la Vache qui Rit dans mon frigo. Des pâtes, et des courgettes, des oeufs aussi.
 Quand j'allais chez Erwan, on mangeait des pâtes et du steak haché. Et des pâtes, et du steak haché. Et plein de chips avec ses colocs et les soirées pizzas et fajitas aussi.
 Quand j'ai emménagé avec Erwan, c'était assez brouillon, on mangeait beaucoup à l'extérieur car nous habitions en plein centre ville (à coté de Colombus Café, Subway, Mezzo di Pasta enfin vous voyez le tableau) et quand on faisait la cuisine c'était surtout des croque-monsieur, des tartes au compté et pommes de terre, et on mangeait du pain presque tous les jours. Sans parler des petits déj, qui étaient des vraies bombes de sucre pour tous les deux.
+
+![square](https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg)
 
 Puis je ne sais pas trop comment c'est venu, il y a un an, j'ai voulu faire attention à ce que je mangeais en même temps que de commencer le sport, alors je me suis renseignée, sur les apports, sur les petits déjeuners sains, sur ce mode de vie "healthy" dont on entendait parler. Associé au sport, c'était la promesse d'une perte de poids durable et d'un mode de vie plus sain.
 
