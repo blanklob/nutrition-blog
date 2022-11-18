@@ -32,9 +32,9 @@ const PostHeader = ({ title, coverImage, date, author }: Props) => {
           className="pb-10 flex justify-center items-center"
         >
           <img
-            className="w-[728px] h-[90px] object-cover rounded-none border-none shadow-none"
+            className="w-[728px] h-[90px] object-contain rounded-none border-none shadow-none"
             alt="ad3"
-            src="https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg"
+            src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47167e99-8819-4f45-954f-8f6cd424afdc/WhatsApp-Video-2022-11-17-at-15.40.08.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221118%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221118T123718Z&X-Amz-Expires=86400&X-Amz-Signature=99357e1ddd363533487c943a7aa67b7938ff91d249be34799d943bab2c6ad6cb&X-Amz-SignedHeaders=host&x-id=GetObject"
           />
         </a>
         <div className="mb-6 text-lg">
