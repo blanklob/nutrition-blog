@@ -7,7 +7,7 @@ body {
 }
 
 [alt="square"] {
-  @apply max-w-[250px] h-auto object-cover mx-auto aspect-square my-10;
+  @apply w-[250px] h-auto object-cover mx-auto aspect-square my-10;
 }
 
 img {
