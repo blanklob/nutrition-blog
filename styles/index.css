@@ -17,3 +17,9 @@ img {
 .markdown-styles_markdown__h_8de img {
   @apply rounded-none shadow-none;
 }
+
+.ads::before {
+  content: "";
+  background-image: url("https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4e3ff077-a6fd-4b7a-bb85-7019de260394%2FCapture_decran_2022-11-18_a_13.09.19.png?id=329040f7-0f4c-4b0f-8198-59d8f7945c35&table=block&spaceId=4163b43d-5e2b-4790-8ace-b902582c20ee&width=2000&userId=6ae11659-d743-4345-a390-ae4f86b4966f");
+  @apply inline-block items-center absolute top-7 right-1 w-[14px] h-[7px] z-10 bg-blue-300 rounded-sm;
+}

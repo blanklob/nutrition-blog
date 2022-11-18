@@ -22,11 +22,13 @@ const PostBody = ({ content }: Props) => {
             show ? "opacity-100" : "opacity-0"
           }`}
         >
-          <img
-            className="w-[160px] h-[600px] object-cover rounded-none border-none"
-            alt="ad2"
-            src="https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg"
-          />
+          <div className="ads">
+            <img
+              className="relative w-[160px] h-[600px] object-cover rounded-none border-none"
+              alt="ad2"
+              src="https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg"
+            />
+          </div>
         </div>
         <div
           className={markdownStyles["markdown"]}

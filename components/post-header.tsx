@@ -27,13 +27,16 @@ const PostHeader = ({ title, coverImage, date, author }: Props) => {
         <div className="block md:hidden mb-6">
           <Avatar name={author.name} picture={author.picture} />
         </div>
-        <div className="pb-10 flex justify-center">
+        <a
+          href="https://www.hellofresh.fr/panier-repas/black-friday"
+          className="pb-10 flex justify-center items-center"
+        >
           <img
             className="w-[728px] h-[90px] object-cover rounded-none border-none shadow-none"
             alt="ad3"
             src="https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg"
           />
-        </div>
+        </a>
         <div className="mb-6 text-lg">
           <DateFormatter dateString={date} />
         </div>

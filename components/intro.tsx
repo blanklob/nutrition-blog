@@ -9,13 +9,16 @@ const Intro = () => {
           Nutrition avec science et consience
         </h4>
       </div>
-      <div className="pb-10 flex justify-center">
+      <a
+        href="https://www.hellofresh.fr/panier-repas/black-friday"
+        className="pb-10 flex justify-center items-center"
+      >
         <img
           className="w-[728px] h-[90px] object-cover rounded-none border-none shadow-none"
           alt="ad3"
           src="https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1310/hellofresh_website/au/cms/SEO/Australian-recipes_blog-section-3.jpg"
         />
-      </div>
+      </a>
     </section>
   );
 };
